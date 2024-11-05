@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Моя главная страница
 ---
 
 This is a blank Quartz installation.
